@@ -1,2 +1,4 @@
-package com.clusus.clustereddatawarehouse.dto;public class DealRequestDto {
+package com.clusus.clustereddatawarehouse.dto;
+
+public class DealRequestDto {
 }
